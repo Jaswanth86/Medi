@@ -1,0 +1,10 @@
+@import "tailwindcss";
+/* Apply Inter font globally */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Optional: Smooth scrolling for better UX */
+html {
+  scroll-behavior: smooth;
+}
