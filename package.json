@@ -34,3 +34,9 @@
     "vite": "^6.3.5"
   }
 }
+"engines": {
+    "node": ">=18.0.0 <21.0.0"  // RECOMMENDED: Target Node.js 18.x or 20.x LTS
+    // You could also specify exact: "node": "20.15.0"
+    // Or a range if you know your project supports it: "node": ">=18.0.0"
+  }
+}
